@@ -1,0 +1,38 @@
+{
+    "passengerPrice": {
+        "passengerFareTypes": {
+            "adultFare": " x Adult",
+            "childFare": " x Child",
+            "elderFare": " x Elder"
+        }
+    },
+
+    "sectionsPopup": ["Booking details", "Trip details", "Passengers"],
+
+    "notesRemark" : "reservation extended: 15 minutes",
+
+    "bookingStatus": "Pending",
+    
+    "defaultBookingDetails" : {
+        "price" : "12.75 USD",
+        "route" : "Ao Por - Naka - Rassada",
+        "departureStation" : "Ao Por Pier",
+        "arrivalStation" : "Naka Island",
+        "vehicle" : "Ferry",
+        "fareType" : "Adult",
+        "passengerName" : "Joanna Foster",
+        "passengerSeat" : "Seat:1A",        
+        "departureTime" : "08:00",
+        "departureSecondTripTime" : "15:00",
+        "arrivalTime" : "08:05",
+        "arrivalSecondTripTime": "15:05",
+        "quantity" : 1
+    },
+
+    "messageToOperator": "Message to operator", 
+
+    "status" : ["Reserved", "Pending", "Confirmed"],
+    
+    "confirmMessage" : "Are you sure you want to CONFIRM this booking?"
+    
+}

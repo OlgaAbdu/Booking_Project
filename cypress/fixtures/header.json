@@ -1,0 +1,14 @@
+{
+    "headers": {
+        "header": "value"
+    },
+    "images": {
+        "imageIconLength": 8
+    },
+    "url": {
+        "logoUrl": "https://qatest.site/"
+    },
+    "userDropDownMenu": {
+        "signOutBtn": "Sign out"
+    }
+}
